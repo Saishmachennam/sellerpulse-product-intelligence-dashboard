@@ -1,0 +1,11 @@
+sku_id,product_title,brand,category,price,mrp,availability
+SHOE001,Nike Blue Running Shoes,Nike,Shoes,3999,4999,in_stock
+SHOE002,Adidas Black Sneakers,Adidas,Shoes,2999,3999,in_stock
+DRESS001,Red Summer Dress,Zara,Dresses,1799,2499,in_stock
+WATCH001,Smart Fitness Watch,Noise,Electronics,2499,3499,in_stock
+BAG001,,Puma,Bags,999,1299,out_of_stock
+TSHIRT001,Men Cotton T-Shirt,,Fashion,799,999,in_stock
+PHONE001,iPhone 14,Apple,Electronics,79999,74999,in_stock
+LAPTOP001,HP Pavilion Laptop,HP,Electronics,59999,69999,in_stock
+KITCHEN001,Steel Water Bottle,Milton,Home,499,799,in_stock
+BOOK001,Atomic Habits,Penguin,Books,399,599,in_stock
