@@ -9,7 +9,6 @@ The platform helps sellers upload product videos or product feed CSVs, validate 
 
 The system is designed around the workflow of a Flipkart seller and focuses on solving common e-commerce challenges such as poor listings, weak titles, invalid pricing, and uncompetitive marketplace pricing.
 
-This project was built as part of a Product Engineering / Backend Engineering Internship Assignment.
 
 ---
 
